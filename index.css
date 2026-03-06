@@ -17,7 +17,7 @@ h1{
 .cell{
     width:100px;
     height:100px;
-    border:2px solid rgb(255, 0, 0);
+    border:2px solid rgb(0, 0, 0);
     font-size:40px;
     display:flex;
     align-items:center;
